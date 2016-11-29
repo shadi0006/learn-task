@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+.logo {
+
+  margin: 130px;
+}
+#learn{
+  position: absolute;
+  top: 15px;
+  left: 47%;
+  font-family: 'PT Serif', serif;
+  font-size: 30pt;
+}
+
+#learn-logo {
+  position: absolute;
+  top: 50px;
+  left: 42%;
+  border-radius: 50%;
+}
+a:link {
+  text-decoration: none;
+}
+#new-learn{
+  background:white;
+  width: 375px;
+  height: 155px;
+  margin: 0 auto;
+  padding: 15px ;
+  font-family: 'Crimson Text', serif;
+  font-size: 14pt;
+}
+
+#sign-in{
+  font-family: 'PT Serif', serif;
+}
+#email{
+  font-family: 'Crimson Text', serif;
+}
+#email-put{
+  position:relative;
+  top: -15px;
+  margin-top: -20px;
+}
+#password{
+  margin-top: 8px;
+
+}
+#pass {
+  margin: 3px;
+  font-family: 'Crimson Text', serif;
+  display: inline;
+}
+#forgot{
+  position: relative;
+  right: -45%;
+  margin: 3px;
+}
+#pass-put{
+  margin-top: 12px;
+}
+body{
+  background: #E7EBEB;
+  font-family: sans-serif;
+
+}
+div{
+  margin:0 auto;
+
+}
+form{margin: 0 auto;}
+#first{
+  background:white;
+  margin: 10px auto;
+  border:1px;
+  padding: 15px;
+  height: 100%;
+  width: 375px;
+font-size: 100%;
+}
+.txt{
+  width:100%;
+  height: 30px;
+}
+#sign{
+  background-color: #81D2C7;
+  text-align: center;
+  width: 98%;
+  height: 45px;
+  margin: 10px auto;
+}
+#git{
+  background-color: #81D2C7;
+  text-align: center;
+  width: 98%;
+  height: 45px;
+  margin: 10px auto;
+}
+#hub{
+  margin: 10px;
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+
+}
+
+.footer {
+  height: 70px;
+  z-index: 100;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  margin-top: 180px;
+  color: white;
+  background-color: #283F54;
+}
+#left {
+  float: left;
+  margin-left: 50px;
+  font-size: 10pt;
+  position: relative;
+  top: 5px;
+}
+#center {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  font-size: 10pt;
+  color: white;
+}
+#right {
+  float: right;
+  margin-right: 75px;
+  font-size: 15pt;
+}
+#fla-sh{
+  color: white;
+}
